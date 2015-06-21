@@ -5,4 +5,4 @@ num: 0
 date: 2015-06-21 10:25:59
 ---
 
-![]({{site.url}}/assets/0.jpeg)
+![]({{site.baseurl}}/assets/0.jpeg)
