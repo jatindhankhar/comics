@@ -5,6 +5,6 @@ twitter_username: jatindhankahr_
 github_username:  jatindhankhar
 language: en_US
 paginate: 10
-paginate_path: "/page/:num/"
-permalink: /comics/:title/
+paginate_path: /page/:num
+permalink: /:title/
 markdown: kramdown
