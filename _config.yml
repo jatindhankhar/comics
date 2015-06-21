@@ -1,7 +1,6 @@
 title: Web Comics
 description: "My attempt at web comics"
-# url: "http://oneohthree.github.io"
-url: 
+baseurl: /comics
 twitter_username: jatindhankahr_
 github_username:  jatindhankhar
 language: en_US
