@@ -1,0 +1,11 @@
+title: Web Comics
+description: "My attempt at web comics"
+# url: "http://oneohthree.github.io"
+url: 
+twitter_username: jatindhankahr_
+github_username:  jatindhankhar
+language: en_US
+paginate: 10
+paginate_path: "/page/:num/"
+permalink: /:title/
+markdown: kramdown
