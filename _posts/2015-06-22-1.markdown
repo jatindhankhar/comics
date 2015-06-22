@@ -1,0 +1,8 @@
+---
+layout: post
+title: "The Lonely Bio Mafia"
+num: 0
+date: 2015-06-22
+---
+
+![]({{site.baseurl}}/assets/1.jpg)
