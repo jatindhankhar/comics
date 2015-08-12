@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Silent Comedy"
+num: 1
+date: 2015-07-12
+---
+
+![]({{site.baseurl}}/assets/2.jpg)
